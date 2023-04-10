@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
-    <sub>Index</sub>
-    <br />
+    <h3>Categories</h3>
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#optimisation">Optimisation</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-in-game">Visual (in-game)</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#audio">Audio</a> •
