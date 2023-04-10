@@ -1,8 +1,21 @@
-# Minecraft Client Mods
+<div align="center">
+    <h1>Minecraft Client Mods</h1>
+    <i>A list with a bunch of FABRIC client side mods for minecraft</i>
+</div>
 
-This is a simple repo with a bunch of FABRIC client side mods for minecraft
+<div align="center">
+    <sub>Index</sub>
+    <br />
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#optimisation">Optimisation</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-in-game">Visual (in-game)</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#audio">Audio</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#guihud">GUI/HUD</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#utility">Utility</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#customisation">Customisation</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#dependencies">Dependencies</a> 
+</div>
 
-## Optimisation
+### Optimisation
 
 | Mod                      | Description                                                                                                        | Download                                                              |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
@@ -27,7 +40,7 @@ This is a simple repo with a bunch of FABRIC client side mods for minecraft
 | More Culling Extra       | A few small additions to More Culling.                                                                             | [Github](https://github.com/fxmorin/MoreCullingExtra/releases)        |
 | Dynamic FPS              | Limits minecraft's FPS when in the background to improve computer performance.                                     | [Modrinth](https://modrinth.com/mod/dynamic-fps/versions)             |
 
-## Visual (in-game)
+### Visual (in-game)
 
 | Mod               | Description                                                                         | Download                                                             |
 | ----------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -35,28 +48,28 @@ This is a simple repo with a bunch of FABRIC client side mods for minecraft
 | Iris              | A modern shaders mod intended to be compatible with existing OptiFine shader packs. | [Github](https://github.com/IrisShaders/Iris/releases/)              |
 | LambDynamicLights | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.            | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
 
-## Audio
+### Audio
 
 | Mod                      | Description                                                                     | Download                                                               |
 | ------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | SimpleVoiceChat          | A simple proximity voice chat mod.                                              | [Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions)     |
 | Sound Physics Remastered | Adds realistic sound attenuation, reverberation, and absorption through blocks. | [Modrinth](https://modrinth.com/mod/sound-physics-remastered/versions) |
 
-## GUI/HUD
+### GUI/HUD
 
 | Mod               | Description                                                                                              | Download                                                                 |
 | ----------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | ArmorChroma       | Different icons in the armor bar depending on the material of the armor.                                 | [Github](https://github.com/A5b84/armor-chroma-fabric/releases)          |
 | BetterPingDisplay | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island. | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions) |
 
-## Utility
+### Utility
 
 | Mod           | Description                                                                                     | Download                                                         |
 | ------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | NoChatReports | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat. | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)    |
 | Multiconnect  | Allows the client to connect to servers that are on an older version.                           | [Github](https://github.com/Earthcomputer/multiconnect/releases) |
 
-## Customisation
+### Customisation
 
 | Mod            | Description                                                                                                             | Download                                                                |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -70,7 +83,7 @@ This is a simple repo with a bunch of FABRIC client side mods for minecraft
 | FabricSkyboxes | Custom skyboxes mod for Fabric. Optifine format not supported                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/)    |
 | OptiGUI        | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                           | [Modrinth](https://modrinth.com/mod/optigui/versions)                   |
 
-## Dependencies
+### Dependencies
 
 | Mod        | Description                                                                   | Download                                              |
 | ---------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
