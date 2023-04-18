@@ -42,16 +42,18 @@
 
 ### Visual (in-game)
 
-| Mod                | Description                                                                                      | Download                                                             |
-| ------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| Iris               | A modern shaders mod intended to be compatible with existing OptiFine shader packs.              | [Github](https://github.com/IrisShaders/Iris/releases/)              |
-| LambDynamicLights  | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                         | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
-| Boosted Brightness | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)   |
-| 3d Skin Layers     | Replaces the usually flat second layer of player skins with a 3d modelled version.               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)           |
-| BetterHurtCam      | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam             | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)         |
-| Fabric Capes       | Shows player's Optifine (and other) capes.                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                  |
-| Distant Horizons   | An LOD mod that allows for a massive render distance without turning your game into a slideshow. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)        |
-| TechnoModel        | Makes pigs that are named "Technoblade" have a crown.                                            | [Github](https://github.com/thecolonel63/technomodel/releases/)      |
+| Mod                 | Description                                                                                                          | Download                                                             |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                                  | [Github](https://github.com/IrisShaders/Iris/releases/)              |
+| LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                             | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
+| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                           | [Github](https://github.com/adamviola/BoostedBrightness/releases/)   |
+| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                                   | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)           |
+| BetterHurtCam       | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam                                 | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)         |
+| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                           | [Modrinth](https://modrinth.com/mod/capes/versions)                  |
+| Distant Horizons    | An LOD mod that allows for a massive render distance without turning your game into a slideshow.                     | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)        |
+| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures        | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)  |
+| TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                                | [Github](https://github.com/thecolonel63/technomodel/releases/)      |
+| Do a Barrel Roll    | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)       |
 
 ### Audio
 
@@ -64,16 +66,18 @@
 
 ### GUI/HUD
 
-| Mod               | Description                                                                                                             | Download                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Mod Menu          | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
-| ArmorChroma       | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
-| Blur              | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
-| MouseWheelie      | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
-| ShulkerBoxTooltip | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
-| TooltipFix        | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
-| AdvancementInfo   | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
-| BetterF3          | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
+| Mod                | Description                                                                                                             | Download                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Mod Menu           | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
+| ArmorChroma        | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
+| Blur               | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
+| MouseWheelie       | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
+| ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
+| TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
+| AdvancementInfo    | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
+| BetterF3           | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
+| ItemBorders        | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
+| Legendary Tooltips | Makes tooltips fancier, by changing your tooltips into embellished works of art .                                       | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
 
 ### Utility
 
