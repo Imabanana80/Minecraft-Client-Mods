@@ -47,6 +47,7 @@
 | Iris               | A modern shaders mod intended to be compatible with existing OptiFine shader packs.              | [Github](https://github.com/IrisShaders/Iris/releases/)              |
 | LambDynamicLights  | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                         | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
 | Boosted Brightness | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)   |
+| 3d Skin Layers     | Replaces the usually flat second layer of player skins with a 3d modelled version.               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)           |
 | BetterHurtCam      | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam             | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)         |
 | Fabric Capes       | Shows player's Optifine (and other) capes.                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                  |
 | Distant Horizons   | An LOD mod that allows for a massive render distance without turning your game into a slideshow. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)        |
@@ -63,27 +64,32 @@
 
 ### GUI/HUD
 
-| Mod          | Description                                                                                                                          | Download                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| Mod Menu     | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.                 | [Github](https://github.com/TerraformersMC/ModMenu/releases)          |
-| ArmorChroma  | Different icons in the armor bar depending on the material of the armor.                                                             | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions) |
-| Blur         | Blurs the background when in your inventory, a GUI or a menu.                                                                        | [Github](https://github.com/Motschen/Blur/releases)                   |
-| MouseWheelie | Move items quicker around your inventory, sort your inventory, and refill item slots (MAKE SURE TO DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)          |
-| BetterF3     | Improves and allows the customisation of the F3 menu.                                                                                | [Github](https://github.com/cominixo/BetterF3/releases)               |
+| Mod               | Description                                                                                                             | Download                                                               |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Mod Menu          | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
+| ArmorChroma       | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
+| Blur              | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
+| MouseWheelie      | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
+| ShulkerBoxTooltip | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
+| TooltipFix        | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
+| AdvancementInfo   | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
+| BetterF3          | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
 
 ### Utility
 
-| Mod                     | Description                                                                                                             | Download                                                                 |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                         | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)            |
-| Multiconnect            | Allows the client to connect to servers that are on an older version.                                                   | [Github](https://github.com/Earthcomputer/multiconnect/releases)         |
-| BetterPingDisplay       | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.                | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions) |
-| MCCI Utils              | A utility mod for MCC Island. Adds discord rich presence, friend notifications, and much more. Similar to Island Utils. | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)                 |
-| Island Utils            | Another utility mod for MCC Island. Adds discord rich presence, chat buttons, and game music. Similar to MCCI Utils.    | [Github](https://github.com/AsoDesu/IslandUtils/releases)                |
-| MidnightControls        | Adds controller support for many console controllers and enhanced controls overall.                                     | [Github](https://github.com/TeamMidnightDust/MidnightControls/releases)  |
-| Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                         | [Github](https://github.com/ramidzkh/fabrishot/releases)                 |
-| Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share the screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)    |
-| ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                       | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)       |
+| Mod                     | Description                                                                                                           | Download                                                                    |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
+| Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
+| Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
+| BetterPingDisplay       | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.              | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions)    |
+| MCCI Utils              | A utility mod for MCC Island. Adds discord rich presence, friend notifs, and much more. Similar to IslandUtils.       | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)                    |
+| Island Utils            | Another utility mod for MCC Island. Adds discord rich presence, chat buttons, and game music. Similar to MCCI Utils.  | [Github](https://github.com/AsoDesu/IslandUtils/releases)                   |
+| MidnightControls        | Adds controller support for many console controllers and enhanced controls overall.                                   | [Github](https://github.com/TeamMidnightDust/MidnightControls/releases)     |
+| Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                       | [Github](https://github.com/ramidzkh/fabrishot/releases)                    |
+| Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share a screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)       |
+| ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                     | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)          |
+| Time to Live            | Adds a timer to TNT and Creepers before they explode.                                                                 | [Modrinth](https://modrinth.com/mod/timetolive/versions)                    |
 
 ### Customisation
 
