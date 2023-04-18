@@ -108,3 +108,5 @@
 | Cloth Config API       | A simple configuration library for fabric mods.                               | [Modrinth](https://modrinth.com/mod/cloth-config/versions)            |
 | YetAnotherConfigLib    | Another configuration library for fabric mods.                                | [Github](https://github.com/isXander/YetAnotherConfigLib/releases)    |
 | ukulib                 | Small utility library used, and made for uku3lig's mods.                      | [Modrinth](https://modrinth.com/mod/ukulib/versions)                  |
+
+#### If you are having trouble navigating the GITHUB download page, or the versions are not updated/listed properly, please open an issue, or convert it to modrinth, then create a pull request.
