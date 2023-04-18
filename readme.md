@@ -47,7 +47,8 @@
 | Iris               | A modern shaders mod intended to be compatible with existing OptiFine shader packs.              | [Github](https://github.com/IrisShaders/Iris/releases/)              |
 | LambDynamicLights  | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                         | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
 | Boosted Brightness | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)   |
-| Fabric Capes       | Shows player's Optifine (and other) capes.                                                       | [Github](https://github.com/CaelTheColher/Capes/releases)            |
+| BetterHurtCam      | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam             | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)         |
+| Fabric Capes       | Shows player's Optifine (and other) capes.                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                  |
 | Distant Horizons   | An LOD mod that allows for a massive render distance without turning your game into a slideshow. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)        |
 | TechnoModel        | Makes pigs that are named "Technoblade" have a crown.                                            | [Github](https://github.com/thecolonel63/technomodel/releases/)      |
 
@@ -62,13 +63,13 @@
 
 ### GUI/HUD
 
-| Mod          | Description                                                                                                                          | Download                                                        |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| Mod Menu     | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.                 | [Github](https://github.com/TerraformersMC/ModMenu/releases)    |
-| ArmorChroma  | Different icons in the armor bar depending on the material of the armor.                                                             | [Github](https://github.com/A5b84/armor-chroma-fabric/releases) |
-| Blur         | Blurs the background when in your inventory, a GUI or a menu.                                                                        | [Github](https://github.com/Motschen/Blur/releases)             |
-| MouseWheelie | Move items quicker around your inventory, sort your inventory, and refill item slots (MAKE SURE TO DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)    |
-| BetterF3     | Improves and allows the customisation of the F3 menu.                                                                                | [Github](https://github.com/cominixo/BetterF3/releases)         |
+| Mod          | Description                                                                                                                          | Download                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| Mod Menu     | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.                 | [Github](https://github.com/TerraformersMC/ModMenu/releases)          |
+| ArmorChroma  | Different icons in the armor bar depending on the material of the armor.                                                             | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions) |
+| Blur         | Blurs the background when in your inventory, a GUI or a menu.                                                                        | [Github](https://github.com/Motschen/Blur/releases)                   |
+| MouseWheelie | Move items quicker around your inventory, sort your inventory, and refill item slots (MAKE SURE TO DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)          |
+| BetterF3     | Improves and allows the customisation of the F3 menu.                                                                                | [Github](https://github.com/cominixo/BetterF3/releases)               |
 
 ### Utility
 
@@ -106,4 +107,4 @@
 | Fabric Language Kotlin | Fabric language module for Kotlin.                                            | [Github](https://github.com/FabricMC/fabric-language-kotlin/releases) |
 | Cloth Config API       | A simple configuration library for fabric mods.                               | [Modrinth](https://modrinth.com/mod/cloth-config/versions)            |
 | YetAnotherConfigLib    | Another configuration library for fabric mods.                                | [Github](https://github.com/isXander/YetAnotherConfigLib/releases)    |
-| ukulib                 | Small utility library used, and made for uku3lig's mods.                      | [Github](https://github.com/uku3lig/ukulib/releases)                  |
+| ukulib                 | Small utility library used, and made for uku3lig's mods.                      | [Modrinth](https://modrinth.com/mod/ukulib/versions)                  |
