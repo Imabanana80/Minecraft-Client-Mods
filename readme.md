@@ -54,6 +54,9 @@
 | NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures        | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)  |
 | TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                                | [Github](https://github.com/thecolonel63/technomodel/releases/)      |
 | Do a Barrel Roll    | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)       |
+| CameraUtils         | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more...   | [Modrinth](https://modrinth.com/mod/camera-utils/versions)           |
+| LogicalZoom         | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases)    |
+| Zoomify             | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)                |
 
 ### Audio
 
