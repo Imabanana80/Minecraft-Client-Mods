@@ -116,7 +116,7 @@
 | Fabric API             | Library with essential hooks and interoperability mechanisms for Fabric mods. | [Github](https://github.com/FabricMC/fabric/releases)                |
 | Fabric Language Kotlin | Fabric language module for Kotlin.                                            | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/versions) |
 | Cloth Config API       | A simple configuration library for fabric mods.                               | [Modrinth](https://modrinth.com/mod/cloth-config/versions)           |
-| YetAnotherConfigLib    | Another configuration library for fabric mods.                                | [Github](https://github.com/isXander/YetAnotherConfigLib/releases)   |
+| YetAnotherConfigLib    | Another configuration library for fabric mods.                                | [Modrinth](https://modrinth.com/mod/yacl/versions)                   |
 | ukulib                 | Small utility library used, and made for uku3lig's mods.                      | [Modrinth](https://modrinth.com/mod/ukulib/versions)                 |
 
 #### If you are having trouble navigating the GITHUB download page, or the versions are not updated/listed properly, please open an issue, or convert it to modrinth, then create a pull request.
