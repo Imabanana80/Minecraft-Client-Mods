@@ -97,6 +97,9 @@
 | Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share a screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)       |
 | ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                     | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)          |
 | Time to Live            | Adds a timer to TNT and Creepers before they explode.                                                                 | [Modrinth](https://modrinth.com/mod/timetolive/versions)                    |
+| Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
+| Xearo's Minimap         | Because minecraft should have a minimap.                                                                              | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)           |
+| Xearo's World Map       | Creates a map of the entire are that you have explored.                                                               | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)          |
 
 ### Customisation
 
