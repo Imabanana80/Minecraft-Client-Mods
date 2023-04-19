@@ -81,6 +81,8 @@
 | BetterF3           | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
 | ItemBorders        | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
 | Legendary Tooltips | Makes tooltips fancier, by changing your tooltips into embellished works of art .                                       | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
+| Xearo's Minimap    | Because minecraft should have a minimap.                                                                                | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)      |
+| Xearo's World Map  | Creates a map of the entire area that you have explored.                                                                | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)     |
 
 ### Utility
 
@@ -98,8 +100,6 @@
 | ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                     | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)          |
 | Time to Live            | Adds a timer to TNT and Creepers before they explode.                                                                 | [Modrinth](https://modrinth.com/mod/timetolive/versions)                    |
 | Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
-| Xearo's Minimap         | Because minecraft should have a minimap.                                                                              | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)           |
-| Xearo's World Map       | Creates a map of the entire are that you have explored.                                                               | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)          |
 
 ### Customisation
 
