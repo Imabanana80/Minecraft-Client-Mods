@@ -100,6 +100,8 @@
 | ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                     | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)          |
 | Time to Live            | Adds a timer to TNT and Creepers before they explode.                                                                 | [Modrinth](https://modrinth.com/mod/timetolive/versions)                    |
 | Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
+| Tweakaroo               | Adds a whole bunch of various different "tweaks" to the game, like better block placement or a built in autoclicker.  | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files)  |
+| Minihud                 | Adds a whole bunch of useful overlays to the game.                                                                    | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/minihud/files)    |
 
 ### Customisation
 
@@ -117,12 +119,13 @@
 
 ### Dependencies
 
-| Mod                    | Description                                                                   | Download                                                             |
-| ---------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Fabric API             | Library with essential hooks and interoperability mechanisms for Fabric mods. | [Github](https://github.com/FabricMC/fabric/releases)                |
-| Fabric Language Kotlin | Fabric language module for Kotlin.                                            | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/versions) |
-| Cloth Config API       | A simple configuration library for fabric mods.                               | [Modrinth](https://modrinth.com/mod/cloth-config/versions)           |
-| YetAnotherConfigLib    | Another configuration library for fabric mods.                                | [Modrinth](https://modrinth.com/mod/yacl/versions)                   |
-| ukulib                 | Small utility library used, and made for uku3lig's mods.                      | [Modrinth](https://modrinth.com/mod/ukulib/versions)                 |
+| Mod                    | Description                                                                                        | Download                                                               |
+| ---------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Fabric API             | Library with essential hooks and interoperability mechanisms for Fabric mods.                      | [Github](https://github.com/FabricMC/fabric/releases)                  |
+| Fabric Language Kotlin | Fabric language module for Kotlin.                                                                 | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/versions)   |
+| Cloth Config API       | A simple configuration library for fabric mods.                                                    | [Modrinth](https://modrinth.com/mod/cloth-config/versions)             |
+| YetAnotherConfigLib    | Another configuration library for fabric mods.                                                     | [Modrinth](https://modrinth.com/mod/yacl/versions)                     |
+| MaLiLib                | a library mod containing shared code for masa's client-side mods. Needed for tweakaroo and minihud | [Modrinth](https://www.curseforge.com/minecraft/mc-mods/malilib/files) |
+| ukulib                 | Small utility library used, and made for uku3lig's mods.                                           | [Modrinth](https://modrinth.com/mod/ukulib/versions)                   |
 
 #### If you are having trouble navigating the GITHUB download page, or the versions are not updated/listed properly, please open an issue, or convert it to modrinth, then create a pull request.
