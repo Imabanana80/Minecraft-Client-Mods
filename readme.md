@@ -57,6 +57,7 @@
 | CameraUtils         | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more...   | [Modrinth](https://modrinth.com/mod/camera-utils/versions)           |
 | LogicalZoom         | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases)    |
 | Zoomify             | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)                |
+| Continuity          | Re-implements optifine's connected textures feature efficiently.                                                     | [Modrinth](https://modrinth.com/mod/continuity/versions)             |
 
 ### Audio
 
@@ -69,53 +70,58 @@
 
 ### GUI/HUD
 
-| Mod                | Description                                                                                                             | Download                                                               |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Mod Menu           | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
-| ArmorChroma        | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
-| Blur               | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
-| MouseWheelie       | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
-| ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
-| TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
-| AdvancementInfo    | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
-| BetterF3           | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
-| ItemBorders        | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
-| Legendary Tooltips | Makes tooltips fancier, by changing your tooltips into embellished works of art .                                       | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
-| Xearo's Minimap    | Because minecraft should have a minimap.                                                                                | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)      |
-| Xearo's World Map  | Creates a map of the entire area that you have explored.                                                                | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)     |
+| Mod                 | Description                                                                                                             | Download                                                               |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Mod Menu            | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
+| Xearo's Minimap     | Because minecraft should have a minimap.                                                                                | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)      |
+| Xearo's World Map   | Creates a map of the entire area that you have explored.                                                                | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)     |
+| Mod Menu            | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
+| Blur                | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
+| BetterF3            | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                |
+| MouseWheelie        | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
+| Totem Counter       | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                         | [Modrinth](https://modrinth.com/mod/totemcounter/versions)             |
+| ShulkerBoxTooltip   | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
+| TooltipFix          | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
+| Ugly Scoreboard Fix | Offers multiple scoreboard modifications to optimize the look of the sidebar in your game. (Removes numbers)            | [Modrinth](hhttps://modrinth.com/mod/ugly-scoreboard-fix/versions)     |
+| AdvancementInfo     | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
+| ArmorChroma         | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
+| ItemBorders         | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
+| Legendary Tooltips  | Makes tooltips fancier, by changing your tooltips into embellished works of art .                                       | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
 
 ### Utility
 
 | Mod                     | Description                                                                                                           | Download                                                                    |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Tweakaroo               | Adds a whole bunch of various different "tweaks" to the game, like better block placement or a built in autoclicker.  | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files)  |
+| Minihud                 | Adds a whole bunch of useful overlays to the game.                                                                    | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/minihud/files)    |
+| Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
 | NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
 | Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
-| BetterPingDisplay       | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.              | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions)    |
 | MCCI Utils              | A utility mod for MCC Island. Adds discord rich presence, friend notifs, and much more. Similar to IslandUtils.       | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)                    |
 | Island Utils            | Another utility mod for MCC Island. Adds discord rich presence, chat buttons, and game music. Similar to MCCI Utils.  | [Github](https://github.com/AsoDesu/IslandUtils/releases)                   |
+| Shared Resources        | Easily share game files between separate Minecraft instances.                                                         | [Modrinth](https://modrinth.com/mod/shared-resources/versions)              |
 | MidnightControls        | Adds controller support for many console controllers and enhanced controls overall.                                   | [Github](https://github.com/TeamMidnightDust/MidnightControls/releases)     |
 | Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                       | [Github](https://github.com/ramidzkh/fabrishot/releases)                    |
 | Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share a screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)       |
-| ServerPackUnlocker      | Gives Server Resource Packs vanilla-ish behavior.                                                                     | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)          |
+| BetterPingDisplay       | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.              | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions)    |
+| Quick Elytra            | Switch your chestplate and elytra with a keybind.                                                                     | [Modrinth](https://modrinth.com/mod/quick-elytra/versions)                  |
 | Time to Live            | Adds a timer to TNT and Creepers before they explode.                                                                 | [Modrinth](https://modrinth.com/mod/timetolive/versions)                    |
-| Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
-| Tweakaroo               | Adds a whole bunch of various different "tweaks" to the game, like better block placement or a built in autoclicker.  | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo/files)  |
-| Minihud                 | Adds a whole bunch of useful overlays to the game.                                                                    | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/minihud/files)    |
 
 ### Customisation
 
-| Mod            | Description                                                                                                              | Download                                                                |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| CIT Resewn     | Adds MCPatcher's and Optifine's CIT (custom item textures) support for resource packs.                                   | [Modrinth](https://modrinth.com/mod/cit-resewn/versions)                |
-| Chime          | Adds MCPatcher's and Optifine's CIT (custom item textures) support but with a DIFFERENT CIT FORMAT. Replaces CIT Resewn. | [Github](https://github.com/emilyploszaj/chime/releases/)               |
-| Animatica      | Adds MCPatcher's and Optifine's animated texture format support for resource packs.                                      | [Modrinth](https://modrinth.com/mod/animatica/versions)                 |
-| Colormatic     | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Github](https://github.com/kvverti/colormatic/releases/)               |
-| Continuity     | Adds support for MCPatcher's and Optifine's connected textures and emmisive textures.                                    | [Github](https://github.com/PepperCode1/Continuity/releases/)           |
-| CEM            | Custom Entity Models is an implementation of custom entity models heavily based off of Optifine's format.                | [Modrinth](https://modrinth.com/mod/cem/versions)                       |
-| ETF            | Entity Texture Features adds randomized & emissive texture support for mobs set by the resourcepack.                     | [Github](https://github.com/Traben-0/Entity_Texture_Features/releases/) |
-| FabricSkyboxes | Custom skyboxes mod for Fabric. Optifine format not supported.                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/)    |
-| OptiGUI        | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                            | [Modrinth](https://modrinth.com/mod/optigui/versions)                   |
+| Mod                | Description                                                                                                              | Download                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| CIT Resewn         | Adds MCPatcher's and Optifine's CIT (custom item textures) support for resource packs.                                   | [Modrinth](https://modrinth.com/mod/cit-resewn/versions)                |
+| Chime              | Adds MCPatcher's and Optifine's CIT (custom item textures) support but with a DIFFERENT CIT FORMAT. Replaces CIT Resewn. | [Github](https://github.com/emilyploszaj/chime/releases/)               |
+| Animatica          | Adds MCPatcher's and Optifine's animated texture format support for resource packs.                                      | [Modrinth](https://modrinth.com/mod/animatica/versions)                 |
+| Colormatic         | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Github](https://github.com/kvverti/colormatic/releases/)               |
+| Continuity         | Adds support for MCPatcher's and Optifine's connected textures and emmisive textures.                                    | [Github](https://github.com/PepperCode1/Continuity/releases/)           |
+| CEM                | Custom Entity Models is an implementation of custom entity models heavily based off of Optifine's format.                | [Modrinth](https://modrinth.com/mod/cem/versions)                       |
+| ETF                | Entity Texture Features adds randomized & emissive texture support for mobs set by the resourcepack.                     | [Github](https://github.com/Traben-0/Entity_Texture_Features/releases/) |
+| FabricSkyboxes     | Custom skyboxes mod for Fabric. Optifine format not supported.                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/)    |
+| OptiGUI            | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                            | [Modrinth](https://modrinth.com/mod/optigui/versions)                   |
+| ServerPackUnlocker | Gives Server Resource Packs vanilla-ish behavior.                                                                        | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)      |
 
 ### Dependencies
 
