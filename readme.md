@@ -42,22 +42,25 @@
 
 ### Visual (in-game)
 
-| Mod                 | Description                                                                                                          | Download                                                             |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                                  | [Github](https://github.com/IrisShaders/Iris/releases/)              |
-| LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                             | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/) |
-| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                           | [Github](https://github.com/adamviola/BoostedBrightness/releases/)   |
-| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                                   | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)           |
-| BetterHurtCam       | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam                                 | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)         |
-| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                           | [Modrinth](https://modrinth.com/mod/capes/versions)                  |
-| Distant Horizons    | An LOD mod that allows for a massive render distance without turning your game into a slideshow.                     | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)        |
-| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures        | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)  |
-| TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                                | [Github](https://github.com/thecolonel63/technomodel/releases/)      |
-| Do a Barrel Roll    | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)       |
-| CameraUtils         | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more...   | [Modrinth](https://modrinth.com/mod/camera-utils/versions)           |
-| LogicalZoom         | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases)    |
-| Zoomify             | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)                |
-| Continuity          | Re-implements optifine's connected textures feature efficiently.                                                     | [Modrinth](https://modrinth.com/mod/continuity/versions)             |
+| Mod                 | Description                                                                                                          | Download                                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                                  | [Github](https://github.com/IrisShaders/Iris/releases/)                          |
+| Continuity          | Re-implements optifine's connected textures feature efficiently.                                                     | [Modrinth](https://modrinth.com/mod/continuity/versions)                         |
+| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                           | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
+| LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                             | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/)             |
+| CameraUtils         | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more...   | [Modrinth](https://modrinth.com/mod/camera-utils/versions)                       |
+| LogicalZoom         | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases)                |
+| Zoomify             | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)                            |
+| Visuality           | A simple client-sided cosmetic mod that will add a bunch of new particles, such as splashes and sparkles             | [Github](https://github.com/PinkGoosik/visuality/releases)                       |
+| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                                   | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
+| BetterHurtCam       | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam                                 | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)                     |
+| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                           | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
+| Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world.     | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
+| Farsight            | Allows you to see further than the server's max render distance                                                      | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files) |
+| Hold That Chunk     | Delays client chunk unloading.                                                                                       | [Modrinth](https://modrinth.com/mod/hold-that-chunk/versions)                    |
+| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures        | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
+| TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                                | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
+| Do a Barrel Roll    | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)                   |
 
 ### Audio
 
@@ -65,8 +68,9 @@
 | ------------------------ | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | SimpleVoiceChat          | A simple proximity voice chat mod.                                                 | [Modrinth](https://modrinth.com/plugin/simple-voice-chat/versions)     |
 | Sound Physics Remastered | Adds realistic sound attenuation, reverberation, and absorption through blocks.    | [Modrinth](https://modrinth.com/mod/sound-physics-remastered/versions) |
-| Presence Footsteps       | New and improved footstep sounds with more material sounds.                        | [Github](https://github.com/Sollace/Presence-Footsteps/releases)       |
 | Extra Sounds             | Adds more sounds to the game, like inventory sounds, drop item sounds, and more... | [Modrinth](https://modrinth.com/mod/extrasounds/versions)              |
+| Auditory                 | Adds new and unique block sounds.                                                  | [Modrinth](https://modrinth.com/mod/auditory/versions)                 |
+| Presence Footsteps       | New and improved footstep sounds with more material sounds.                        | [Github](https://github.com/Sollace/Presence-Footsteps/releases)       |
 
 ### GUI/HUD
 
@@ -80,13 +84,15 @@
 | MouseWheelie        | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
 | Appleskin           | Adds various food-related HUD improvements, such as a saturation overlay for your hunger bar.                           | [Github](https://github.com/squeek502/AppleSkin/releases)              |
 | Totem Counter       | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                         | [Modrinth](https://modrinth.com/mod/totemcounter/versions)             |
+| ArmorChroma         | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
 | ShulkerBoxTooltip   | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
 | TooltipFix          | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
 | Ugly Scoreboard Fix | Offers multiple scoreboard modifications to optimize the look of the sidebar in your game. (Removes numbers)            | [Modrinth](https://modrinth.com/mod/ugly-scoreboard-fix/versions)      |
+| Smooth Swapping     | Adds a simple slide animation when moving items around in your inventory.                                               | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)          |
+| Status Effect Bars  | Adds a bar to status effects to show remaining duration of effects.                                                     | [Modrinth](https://modrinth.com/mod/status-effect-bars/versions)       |
 | AdvancementInfo     | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
-| ArmorChroma         | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)  |
 | ItemBorders         | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
-| Legendary Tooltips  | Makes tooltips fancier, by changing your tooltips into embellished works of art .                                       | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
+| Legendary Tooltips  | Makes tooltips fancier, by changing your tooltips into embellished works of art.                                        | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
 
 ### Utility
 
