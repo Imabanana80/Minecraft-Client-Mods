@@ -11,6 +11,7 @@
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#guihud">GUI/HUD</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#utility">Utility</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#customisation">Customisation</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#mcc-island">MCC Island</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#dependencies">Dependencies</a> 
 </div>
 
@@ -104,10 +105,6 @@
 | NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
 | Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
-| Noxesium                | An OPTIMISATION mod developed by noxcrew specificly for MCC Island, and fixing bugs specific to MCCI.                 | [Modrinth](https://modrinth.com/mod/noxesium/versions)                      |
-| MCCI: Companion         | A utility mod for MCC Island. Converts spammy chat messages into popup toasts, and has amazing discord Rich Presence. | [Modrinth](https://modrinth.com/mod/mccic/versions)                         |
-| MCCI Utils              | Another utility mod for MCC Island. Adds discord rich presence, friend notifs, and much more.                         | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)                    |
-| Island Utils            | Another utility mod for MCC Island. Adds discord rich presence, chat buttons, and game music.                         | [Github](https://github.com/AsoDesu/IslandUtils/releases)                   |
 | Shared Resources        | Easily share game files between separate Minecraft instances.                                                         | [Modrinth](https://modrinth.com/mod/shared-resources/versions)              |
 | MidnightControls        | Adds controller support for many console controllers and enhanced controls overall.                                   | [Github](https://github.com/TeamMidnightDust/MidnightControls/releases)     |
 | Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                       | [Github](https://github.com/ramidzkh/fabrishot/releases)                    |
@@ -130,6 +127,20 @@
 | FabricSkyboxes     | Custom skyboxes mod for Fabric. Optifine format not supported.                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/)    |
 | OptiGUI            | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                            | [Modrinth](https://modrinth.com/mod/optigui/versions)                   |
 | ServerPackUnlocker | Gives Server Resource Packs vanilla-ish behavior.                                                                        | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)      |
+
+### MCC Island
+
+| Mod              | Description                                                                                                         | Download                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Noxesium         | An OPTIMISATION mod developed by noxcrew specificly for MCC Island, and fixing bugs specific to MCCI.               | [Modrinth](https://modrinth.com/mod/noxesium/versions)            |
+| MCCI Utils       | A utility mod for MCC Island. Adds Discord RP, friend notifs, and much more.                                        | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)          |
+| Island Utils     | Another utility mod for MCC Island. Adds Discord RP, chat buttons, and game music.                                  | [Github](https://github.com/AsoDesu/IslandUtils/releases)         |
+| MCCI: Companion  | Another utility mod for MCC Island. Converts many chat messages into popups, adds Discord RP, music, but no config. | [Modrinth](https://modrinth.com/mod/mccic/versions)               |
+| Island Champ     | Another utility mod for MCC Island. Adds special keybinds and a seprate chat channel for PMs.                       | [Modrinth](https://modrinth.com/mod/island-champ/versions)        |
+| Island Menu      | Makes the title screen MCCI themed.                                                                                 | [Github](https://github.com/MoSadie/Island-Menu/releases)         |
+| MCCI Nametag Mod | Displays your own nametag for yourself exactly how it looks for other people.                                       | [Github](https://github.com/anastarawneh/MCCINametagMod/releases) |
+
+##### Many MCC Island util mods are still in development and all have amazing features planned, but are currently still quite bare-bones. As of now, i reccomend using MCCI Utils if you are fine without music and Island Utils if you want music. Please feel free to try any and even all of them out, as they all have slightly different features.
 
 ### Dependencies
 
