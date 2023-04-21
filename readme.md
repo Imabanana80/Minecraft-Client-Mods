@@ -99,18 +99,18 @@
 
 ### HUD
 
-| Mod                    | Description                                                                                                             | Download                                                                 |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| #### Dynamic Crosshair | Changes the look of your crosshair based on context.                                                                    | [Modrinth](https://modrinth.com/mod/dynamiccrosshair/versions)           |
-| Appleskin              | Adds various food-related HUD improvements, such as a saturation overlay for your hunger bar.                           | [Github](https://github.com/squeek502/AppleSkin/releases)                |
-| ArmorChroma            | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)    |
-| Totem Counter          | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                         | [Modrinth](https://modrinth.com/mod/totemcounter/versions)               |
-| Numeral Ping           | Display's each player's ping in the tab menu, and replaces the connection bars. Does not work properly on some servers. | [Modrinth](https://modrinth.com/mod/numeral-ping/versions)               |
-| BetterPingDisplay      | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.                | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions) |
-| BetterF3               | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                  |
-| Ugly Scoreboard Fix    | Offers multiple scoreboard modifications to optimize the look of the sidebar in your game. (Removes numbers)            | [Modrinth](https://modrinth.com/mod/ugly-scoreboard-fix/versions)        |
-| Status Effect Bars     | Adds a bar to status effects to show remaining duration of effects.                                                     | [Modrinth](https://modrinth.com/mod/status-effect-bars/versions)         |
-| Xearo's Minimap        | Because minecraft should have a minimap.                                                                                | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)        |
+| Mod                 | Description                                                                                                             | Download                                                                 |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Dynamic Crosshair   | Changes the look of your crosshair based on context.                                                                    | [Modrinth](https://modrinth.com/mod/dynamiccrosshair/versions)           |
+| Appleskin           | Adds various food-related HUD improvements, such as a saturation overlay for your hunger bar.                           | [Github](https://github.com/squeek502/AppleSkin/releases)                |
+| ArmorChroma         | Different icons in the armor bar depending on the material of the armor.                                                | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)    |
+| Totem Counter       | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                         | [Modrinth](https://modrinth.com/mod/totemcounter/versions)               |
+| Numeral Ping        | Display's each player's ping in the tab menu, and replaces the connection bars. Does not work properly on some servers. | [Modrinth](https://modrinth.com/mod/numeral-ping/versions)               |
+| BetterPingDisplay   | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.                | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions) |
+| BetterF3            | Improves and allows the customisation of the F3 menu.                                                                   | [Github](https://github.com/cominixo/BetterF3/releases)                  |
+| Ugly Scoreboard Fix | Offers multiple scoreboard modifications to optimize the look of the sidebar in your game. (Removes numbers)            | [Modrinth](https://modrinth.com/mod/ugly-scoreboard-fix/versions)        |
+| Status Effect Bars  | Adds a bar to status effects to show remaining duration of effects.                                                     | [Modrinth](https://modrinth.com/mod/status-effect-bars/versions)         |
+| Xearo's Minimap     | Because minecraft should have a minimap.                                                                                | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)        |
 
 ### Utility
 
