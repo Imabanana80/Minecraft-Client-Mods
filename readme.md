@@ -7,6 +7,7 @@
     <h3>Categories</h3>
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#optimisation">Optimisation</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-in-game">Visual (in-game)</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-camera">Visual (camera)</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#audio">Audio</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#guihud">GUI/HUD</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#utility">Utility</a> •
@@ -44,24 +45,29 @@
 
 ### Visual (in-game)
 
-| Mod                 | Description                                                                                                          | Download                                                                         |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                                  | [Github](https://github.com/IrisShaders/Iris/releases/)                          |
-| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                           | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
-| LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                             | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/)             |
-| CameraUtils         | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more.     | [Modrinth](https://modrinth.com/mod/camera-utils/versions)                       |
-| LogicalZoom         | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases)                |
-| Zoomify             | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)                            |
-| Visuality           | A simple client-sided cosmetic mod that will add a bunch of new particles, such as splashes and sparkles             | [Github](https://github.com/PinkGoosik/visuality/releases)                       |
-| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                                   | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
-| BetterHurtCam       | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam                                 | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)                     |
-| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                           | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
-| Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world.     | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
-| Farsight            | Allows you to see further than the server's max render distance.                                                     | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files) |
-| Hold That Chunk     | Delays client chunk unloading.                                                                                       | [Modrinth](https://modrinth.com/mod/hold-that-chunk/versions)                    |
-| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures        | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
-| TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                                | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
-| Do a Barrel Roll    | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)                   |
+| Mod                 | Description                                                                                                      | Download                                                                         |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                              | [Github](https://github.com/IrisShaders/Iris/releases/)                          |
+| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
+| LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                         | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/)             |
+| Visuality           | A simple client-sided cosmetic mod that will add a bunch of new particles, such as splashes and sparkles         | [Github](https://github.com/PinkGoosik/visuality/releases)                       |
+| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
+| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
+| Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
+| Farsight            | Allows you to see further than the server's max render distance.                                                 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files) |
+| Hold That Chunk     | Delays client chunk unloading.                                                                                   | [Modrinth](https://modrinth.com/mod/hold-that-chunk/versions)                    |
+| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures    | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
+| TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                            | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
+
+### Visual (camera)
+
+| Mod              | Description                                                                                                          | Download                                                          |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| CameraUtils      | Advanced camera altering mod. Adds optifine like zoom, freecam, third person camera customisation and much more.     | [Modrinth](https://modrinth.com/mod/camera-utils/versions)        |
+| LogicalZoom      | Super simple optifine zoom fabric replacement.                                                                       | [Github](https://github.com/LogicalGeekBoy/logical_zoom/releases) |
+| Zoomify          | Optifine like zoom with scroll wheel control for how zoomed the zoom is.                                             | [Modrinth](https://modrinth.com/mod/zoomify/versions)             |
+| BetterHurtCam    | Customise how intense the hurtcam is, or completely disable it. Similar to NoHurtCam                                 | [Modrinth](https://modrinth.com/mod/betterhurtcam/versions/)      |
+| Do a Barrel Roll | A fully clientside mod that unlocks elytra camera movement, allowing for full pitch, yaw and roll control in flight. | [Modrinth](https://modrinth.com/mod/do-a-barrel-roll/versions)    |
 
 ### Audio
 
@@ -107,9 +113,10 @@
 | NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
 | Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
+| Replay Mod              | Allows you to create and render cinamatic clips and videos.                                                           | [Website](https://www.replaymod.com/download/)                              |
+| Isometric Renders       | Render high-resolution isometric screenshots of builds, items and blocks.                                             | [Modrinth](https://modrinth.com/mod/isometric-renders/versions)             |
 | Shared Resources        | Easily share game files between separate Minecraft instances.                                                         | [Modrinth](https://modrinth.com/mod/shared-resources/versioitematica/files) |
 | EasierVillagerTrading   | Trade with villagers faster and more easily.                                                                          | [Modrinth](https://modrinth.com/mod/easiervillagertrading/versions)         |
-| MidnightControls        | Adds controller support for many console controllers and enhanced controls overall.                                   | [Github](https://github.com/TeamMidnightDust/MidnightControls/releases)     |
 | Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                       | [Github](https://github.com/ramidzkh/fabrishot/releases)                    |
 | Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share a screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)       |
 | Quick Elytra            | Switch your chestplate and elytra with a keybind.                                                                     | [Modrinth](https://modrinth.com/mod/quick-elytra/versions)                  |
