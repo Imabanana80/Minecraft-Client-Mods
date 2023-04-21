@@ -48,15 +48,15 @@
 | Mod                 | Description                                                                                                      | Download                                                                         |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                              | [Github](https://github.com/IrisShaders/Iris/releases/)                          |
-| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
 | LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                         | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/)             |
+| Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                       | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
 | Visuality           | A simple client-sided cosmetic mod that will add a bunch of new particles, such as splashes and sparkles         | [Github](https://github.com/PinkGoosik/visuality/releases)                       |
-| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
-| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
+| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures    | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
 | Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
 | Farsight            | Allows you to see further than the server's max render distance.                                                 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files) |
 | Hold That Chunk     | Delays client chunk unloading.                                                                                   | [Modrinth](https://modrinth.com/mod/hold-that-chunk/versions)                    |
-| NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures    | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
+| Fabric Capes        | Shows player's Optifine (and other) capes.                                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
+| 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
 | TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                            | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
 
 ### Visual (camera)
