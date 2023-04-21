@@ -55,6 +55,7 @@
 | Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world. | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
 | Farsight            | Allows you to see further than the server's max render distance.                                                 | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files) |
 | Hold That Chunk     | Delays client chunk unloading.                                                                                   | [Modrinth](https://modrinth.com/mod/hold-that-chunk/versions)                    |
+| Chunks fade in      | A simple mod that adds a fade-in animation for chunks.                                                           | [Modrinth](https://modrinth.com/mod/chunks-fade-in/versions)                     |
 | Fabric Capes        | Shows player's Optifine (and other) capes.                                                                       | [Modrinth](https://modrinth.com/mod/capes/versions)                              |
 | 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                               | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
 | TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                            | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
