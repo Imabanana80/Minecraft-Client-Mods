@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Minecraft Client Mods</h1>
-    <i>A list with a bunch of FABRIC (and some quilt) client side mods for minecraft</i>
+    <i>A list with a bunch of Fabric (quilt is reccomeneded) client side mods for minecraft</i>
 </div>
 
 <div align="center">
@@ -9,7 +9,8 @@
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-in-game">Visual (in-game)</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#visual-camera">Visual (camera)</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#audio">Audio</a> •
-    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#guihud">GUI/HUD</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#gui">GUI</a> •
+    <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#hud">HUD</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#utility">Utility</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#customisation">Customisation</a> •
     <a href="https://github.com/Imabanana80/Minecraft-Client-Mods#mcc-island">MCC Island</a> •
@@ -80,29 +81,35 @@
 | Auditory                 | Adds new and unique block sounds.                                                  | [Modrinth](https://modrinth.com/mod/auditory/versions)                 |
 | Presence Footsteps       | New and improved footstep sounds with more material sounds.                        | [Github](https://github.com/Sollace/Presence-Footsteps/releases)       |
 
-### GUI/HUD
+### GUI
+
+| Mod                | Description                                                                                                             | Download                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Mod Menu           | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.    | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
+| Blur               | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
+| Xearo's World Map  | Creates a map of the entire area that you have explored.                                                                | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)     |
+| MouseWheelie       | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
+| Inspecio           | Adds advanced tooltips like shulkerbox tooltips and nbt data.                                                           | [Github](https://github.com/Queerbric/Inspecio/releases)               |
+| ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
+| TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
+| Smooth Swapping    | Adds a simple slide animation when moving items around in your inventory.                                               | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)          |
+| ItemBorders        | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
+| Legendary Tooltips | Makes tooltips fancier, by changing your tooltips into embellished works of art.                                        | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
+| AdvancementInfo    | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
+
+### HUD
 
 | Mod                 | Description                                                                                                                  | Download                                                                 |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Mod Menu            | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them.         | [Github](https://github.com/TerraformersMC/ModMenu/releases)             |
-| Blur                | Blurs the background when in your inventory, a GUI or a menu.                                                                | [Github](https://github.com/Motschen/Blur/releases)                      |
 | Xearo's Minimap     | Because minecraft should have a minimap.                                                                                     | [ChocolateMC](https://chocolateminecraft.com/minimapdownload.php)        |
-| Xearo's World Map   | Creates a map of the entire area that you have explored.                                                                     | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)       |
 | BetterF3            | Improves and allows the customisation of the F3 menu.                                                                        | [Github](https://github.com/cominixo/BetterF3/releases)                  |
-| MouseWheelie        | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING).      | [Github](https://github.com/Siphalor/mouse-wheelie/releases)             |
 | Appleskin           | Adds various food-related HUD improvements, such as a saturation overlay for your hunger bar.                                | [Github](https://github.com/squeek502/AppleSkin/releases)                |
-| Totem Counter       | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                              | [Modrinth](https://modrinth.com/mod/totemcounter/versions)               |
 | ArmorChroma         | Different icons in the armor bar depending on the material of the armor.                                                     | [Modrinth](https://modrinth.com/mod/armor-chroma-for-fabric/versions)    |
-| ShulkerBoxTooltip   | View the contents of shulker boxes from your inventory.                                                                      | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases)   |
-| TooltipFix          | Stops tooltips that are too large to fit on the screen from running off the screen.                                          | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)                 |
+| Totem Counter       | Shows the amount of totem pops for every player above their nametag, and shows totems you have.                              | [Modrinth](https://modrinth.com/mod/totemcounter/versions)               |
 | Numeral Ping        | Display's each player's ping in the tab menu, and replaces the connection bar thing. Does not work properly on some servers. | [Modrinth](https://modrinth.com/mod/numeral-ping/versions)               |
 | BetterPingDisplay   | Display's each player's ping in the tab menu. Does not work properly on some servers such as MCC-Island.                     | [Modrinth](https://modrinth.com/mod/better-ping-display-fabric/versions) |
 | Ugly Scoreboard Fix | Offers multiple scoreboard modifications to optimize the look of the sidebar in your game. (Removes numbers)                 | [Modrinth](https://modrinth.com/mod/ugly-scoreboard-fix/versions)        |
-| Smooth Swapping     | Adds a simple slide animation when moving items around in your inventory.                                                    | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)            |
 | Status Effect Bars  | Adds a bar to status effects to show remaining duration of effects.                                                          | [Modrinth](https://modrinth.com/mod/status-effect-bars/versions)         |
-| AdvancementInfo     | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                        | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)            |
-| ItemBorders         | Adds a coloured border to items based on their rarity.                                                                       | [Modrinth](https://modrinth.com/mod/item-borders/versions)               |
-| Legendary Tooltips  | Makes tooltips fancier, by changing your tooltips into embellished works of art.                                             | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)         |
 
 ### Utility
 
@@ -112,6 +119,7 @@
 | Minihud                 | Adds a whole bunch of useful overlays to the game.                                                                    | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/minihud/files)    |
 | Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [ChocolateMC](https://chocolateminecraft.com/betterpvpdownload.php)         |
 | NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
+| Via-Fabric              | Allows the client to connect to servers that are on an older version.                                                 | [Modrinth](https://modrinth.com/mod/viafabric/versions)                     |
 | Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
 | Replay Mod              | Allows you to create and render cinamatic clips and videos.                                                           | [Website](https://www.replaymod.com/download/)                              |
