@@ -173,5 +173,6 @@
 | YetAnotherConfigLib      | Another configuration library for fabric mods.                                                     | [Modrinth](https://modrinth.com/mod/yacl/versions)                     |
 | MaLiLib                  | a library mod containing shared code for masa's client-side mods. Needed for tweakaroo and minihud | [Modrinth](https://www.curseforge.com/minecraft/mc-mods/malilib/files) |
 | ukulib                   | Small utility library used, and made for uku3lig's mods.                                           | [Modrinth](https://modrinth.com/mod/ukulib/versions)                   |
+| oωo lib                  | Used by isometric renders mod.                                                                     | [Modrinth](https://modrinth.com/mod/owo-lib/versions)                  |
 
 #### If you are having trouble navigating the GITHUB download page, or the versions are not updated/listed properly, please open an issue, or convert it to modrinth, then create a pull request.
