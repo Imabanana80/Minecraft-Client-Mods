@@ -169,6 +169,7 @@
 | Quilted Fabric API + QSL | Essential standard libraries for the Quilt ecosystem.                                              | [Modrinth](https://modrinth.com/mod/qsl/versions)                      |
 | Fabric Language Kotlin   | Fabric language module for Kotlin.                                                                 | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/versions)   |
 | Cloth Config API         | A simple configuration library for fabric mods.                                                    | [Modrinth](https://modrinth.com/mod/cloth-config/versions)             |
+| CompleteConfig           | Another configuration library for fabric mods.                                                     | [Modrinth](https://modrinth.com/mod/completeconfig/versions)           |
 | YetAnotherConfigLib      | Another configuration library for fabric mods.                                                     | [Modrinth](https://modrinth.com/mod/yacl/versions)                     |
 | MaLiLib                  | a library mod containing shared code for masa's client-side mods. Needed for tweakaroo and minihud | [Modrinth](https://www.curseforge.com/minecraft/mc-mods/malilib/files) |
 | ukulib                   | Small utility library used, and made for uku3lig's mods.                                           | [Modrinth](https://modrinth.com/mod/ukulib/versions)                   |
