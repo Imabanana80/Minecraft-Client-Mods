@@ -30,7 +30,7 @@
 | Krypton                  | Attempts to optimize the Minecraft networking stack. Based on Velocity.                                    | [Github](https://github.com/astei/krypton/releases)                   |
 | LazyDFU                  | Makes Minecraft DataFixerUpper initialization lazy. DFU is used when changing minecraft world versions.    | [Github](https://github.com/astei/lazydfu/releases)                   |
 | FerriteCore              | Helps reduce ram usage and is more noticable on large modpacks.                                            | [Modrinth](https://modrinth.com/mod/ferrite-core/versions)            |
-| Memory Leak Fix          | Fixes random memory leaks. Still a reletively young mod.                                                   | [Github](https://github.com/fxmorin/MemoryLeakFix/releases/)          |
+| Memory Leak Fix          | Fixes random memory leaks. Still a reletively young mod.                                                   | [Modrinth](https://modrinth.com/mod/memoryleakfix/versions)           |
 | C2ME                     | Designed to improve the performance of chunk generation, I/O, or loading.                                  | [Github](https://github.com/RelativityMC/C2ME-fabric/releases)        |
 | Exordium                 | Renders the HUD and options menues at a lower frame rate.                                                  | [Github](https://github.com/tr7zw/Exordium/releases)                  |
 | Enchanced Block Entities | Speeds up Block Entity rendering by using baked block models instead of laggy entity models.               | [Modrinth](https://modrinth.com/mod/ebe/versions)                     |
@@ -42,7 +42,7 @@
 | More Culling             | Changes how multiple types of culling are handled in order to improve performance.                         | [Github](https://github.com/fxmorin/MoreCulling/releases)             |
 | More Culling Extra       | A few small additions to More Culling.                                                                     | [Github](https://github.com/fxmorin/MoreCullingExtra/releases)        |
 | Dynamic FPS              | Limits minecraft's FPS when in the background to improve computer performance.                             | [Modrinth](https://modrinth.com/mod/dynamic-fps/versions)             |
-| ForgetMeChunk            | Prevents light map unloads on the client, which eliminates the lag spikes caused by moving between chunks. | [Modrinth](https://modrinth.com/mod/dynamic-fps/versions)             |
+| ForgetMeChunk            | Prevents light map unloads on the client, which eliminates the lag spikes caused by moving between chunks. | [Modrinth](https://modrinth.com/mod/forgetmechunk/versions)           |
 
 ### Visual (in-game)
 
@@ -125,7 +125,7 @@
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
 | Replay Mod              | Allows you to create and render cinamatic clips and videos.                                                           | [Website](https://www.replaymod.com/download/)                              |
 | Isometric Renders       | Render high-resolution isometric screenshots of builds, items and blocks.                                             | [Modrinth](https://modrinth.com/mod/isometric-renders/versions)             |
-| Shared Resources        | Easily share game files between separate Minecraft instances.                                                         | [Modrinth](https://modrinth.com/mod/shared-resources/versioitematica/files) |
+| Shared Resources        | Easily share game files between separate Minecraft instances.                                                         | [Modrinth](https://modrinth.com/mod/shared-resources/versions)              |
 | EasierVillagerTrading   | Trade with villagers faster and more easily.                                                                          | [Modrinth](https://modrinth.com/mod/easiervillagertrading/versions)         |
 | Fabrishot               | Take insanely high resolution (4k) screenshots.                                                                       | [Github](https://github.com/ramidzkh/fabrishot/releases)                    |
 | Screenshot to Clipboard | Automatically copies a taken screenshot to your clipboard, which allows you to quickly and easily share a screenshot. | [Modrinth](https://modrinth.com/mod/screenshot-to-clipboard/versions)       |
@@ -139,7 +139,7 @@
 | CIT Resewn         | Adds MCPatcher's and Optifine's CIT (custom item textures) support for resource packs.                                   | [Modrinth](https://modrinth.com/mod/cit-resewn/versions)                |
 | Chime              | Adds MCPatcher's and Optifine's CIT (custom item textures) support but with a DIFFERENT CIT FORMAT. Replaces CIT Resewn. | [Github](https://github.com/emilyploszaj/chime/releases/)               |
 | Animatica          | Adds MCPatcher's and Optifine's animated texture format support for resource packs.                                      | [Modrinth](https://modrinth.com/mod/animatica/versions)                 |
-| Colormatic         | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Github](https://github.com/kvverti/colormatic/releases/)               |
+| Colormatic         | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Modrinth](https://modrinth.com/mod/colormatic/versions)                |
 | Continuity         | Adds support for MCPatcher's and Optifine's connected textures and emmisive textures.                                    | [Github](https://github.com/PepperCode1/Continuity/releases/)           |
 | CEM                | Custom Entity Models is an implementation of custom entity models heavily based off of Optifine's format.                | [Modrinth](https://modrinth.com/mod/cem/versions)                       |
 | ETF                | Entity Texture Features adds randomized & emissive texture support for mobs set by the resourcepack.                     | [Github](https://github.com/Traben-0/Entity_Texture_Features/releases/) |
