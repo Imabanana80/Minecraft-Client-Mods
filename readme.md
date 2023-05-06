@@ -91,7 +91,6 @@
 | Blur               | Blurs the background when in your inventory, a GUI or a menu.                                                           | [Github](https://github.com/Motschen/Blur/releases)                    |
 | Xearo's World Map  | Creates a map of the entire area that you have explored.                                                                | [ChocolateMC](https://chocolateminecraft.com/worldmapdownload.php)     |
 | MouseWheelie       | Move items quicker around your inventory, sort your inventory, and refill item slots (DISABLE TOTEM REFILL IF CPVPING). | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
-| Inspecio           | Adds advanced tooltips like shulkerbox tooltips and nbt data.                                                           | [Github](https://github.com/Queerbric/Inspecio/releases)               |
 | ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
 | TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
 | Smooth Swapping    | Adds a simple slide animation when moving items around in your inventory.                                               | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)          |
