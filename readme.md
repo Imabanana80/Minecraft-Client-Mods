@@ -137,18 +137,18 @@
 
 ### Customisation
 
-| Mod                | Description                                                                                                              | Download                                                                |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| CIT Resewn         | Adds MCPatcher's and Optifine's CIT (custom item textures) support for resource packs.                                   | [Modrinth](https://modrinth.com/mod/cit-resewn/versions)                |
-| Chime              | Adds MCPatcher's and Optifine's CIT (custom item textures) support but with a DIFFERENT CIT FORMAT. Replaces CIT Resewn. | [Github](https://github.com/emilyploszaj/chime/releases/)               |
-| Animatica          | Adds MCPatcher's and Optifine's animated texture format support for resource packs.                                      | [Modrinth](https://modrinth.com/mod/animatica/versions)                 |
-| Colormatic         | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Modrinth](https://modrinth.com/mod/colormatic/versions)                |
-| Continuity         | Adds support for MCPatcher's and Optifine's connected textures and emmisive textures.                                    | [Github](https://github.com/PepperCode1/Continuity/releases/)           |
-| CEM                | Custom Entity Models is an implementation of custom entity models heavily based off of Optifine's format.                | [Modrinth](https://modrinth.com/mod/cem/versions)                       |
-| ETF                | Entity Texture Features adds randomized & emissive texture support for mobs set by the resourcepack.                     | [Github](https://github.com/Traben-0/Entity_Texture_Features/releases/) |
-| FabricSkyboxes     | Custom skyboxes mod for Fabric. Optifine format not supported.                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/)    |
-| OptiGUI            | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                            | [Modrinth](https://modrinth.com/mod/optigui/versions)                   |
-| ServerPackUnlocker | Gives Server Resource Packs vanilla-ish behavior.                                                                        | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)      |
+| Mod                   | Description                                                                                                              | Download                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| CIT Resewn            | Adds MCPatcher's and Optifine's CIT (custom item textures) support for resource packs.                                   | [Modrinth](https://modrinth.com/mod/cit-resewn/versions)             |
+| Chime                 | Adds MCPatcher's and Optifine's CIT (custom item textures) support but with a DIFFERENT CIT FORMAT. Replaces CIT Resewn. | [Github](https://github.com/emilyploszaj/chime/releases/)            |
+| Animatica             | Adds MCPatcher's and Optifine's animated texture format support for resource packs.                                      | [Modrinth](https://modrinth.com/mod/animatica/versions)              |
+| Colormatic            | Allows resource packs to customize hard coded colors in game. Similar to Optifine's custom color feature.                | [Modrinth](https://modrinth.com/mod/colormatic/versions)             |
+| Continuity            | Adds support for MCPatcher's and Optifine's connected textures and emmisive textures.                                    | [Github](https://github.com/PepperCode1/Continuity/releases/)        |
+| CEM                   | Custom Entity Models is an implementation of custom entity models heavily based off of Optifine's format.                | [Modrinth](https://modrinth.com/mod/cem/versions)                    |
+| Entity Model Features | Adds Pptifine's CEM (Custom Entity Models) support for resource packs.                                                   | [Github](https://modrinth.com/mod/entity-model-features/versions)    |
+| FabricSkyboxes        | Custom skyboxes mod for Fabric. Optifine format not supported.                                                           | [Github](https://github.com/AMereBagatelle/fabricskyboxes/releases/) |
+| OptiGUI               | A mod allowing to animate GUI textures or replace container textures with minimal predicates.                            | [Modrinth](https://modrinth.com/mod/optigui/versions)                |
+| ServerPackUnlocker    | Gives Server Resource Packs vanilla-ish behavior.                                                                        | [Modrinth](https://modrinth.com/mod/server-pack-unlocker/versions)   |
 
 ### MCC Island
 
