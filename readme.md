@@ -94,7 +94,6 @@
 | ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                                 | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
 | TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                     | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
 | Smooth Swapping    | Adds a simple slide animation when moving items around in your inventory.                                               | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)          |
-| ItemBorders        | Adds a coloured border to items based on their rarity.                                                                  | [Modrinth](https://modrinth.com/mod/item-borders/versions)             |
 | Legendary Tooltips | Makes tooltips fancier, by changing your tooltips into embellished works of art.                                        | [Modrinth](https://modrinth.com/mod/legendary-tooltips/versions)       |
 | AdvancementInfo    | Enlarges the advancement menu, and helps keep track of what needs to be done to complete advancements                   | [Modrinth](https://modrinth.com/mod/advancementinfo/versions)          |
 
