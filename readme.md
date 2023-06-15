@@ -156,7 +156,6 @@
 | Mod              | Description                                                                                                         | Download                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Noxesium         | An OPTIMISATION mod developed by noxcrew specificly for MCC Island, and fixing bugs specific to MCCI.               | [Modrinth](https://modrinth.com/mod/noxesium/versions)            |
-| MCCI Utils       | A utility mod for MCC Island. Adds Discord RP, friend notifs, and much more.                                        | [Modrinth](https://modrinth.com/mod/mcci-utils/versions)          |
 | Island Utils     | Another utility mod for MCC Island. Adds Discord RP, chat buttons, and game music.                                  | [Github](https://github.com/AsoDesu/IslandUtils/releases)         |
 | MCCI: Companion  | Another utility mod for MCC Island. Converts many chat messages into popups, adds Discord RP, music, but no config. | [Modrinth](https://modrinth.com/mod/mccic/versions)               |
 | Island Champ     | Another utility mod for MCC Island. Adds special keybinds and a seprate chat channel for PMs.                       | [Modrinth](https://modrinth.com/mod/island-champ/versions)        |
