@@ -89,7 +89,7 @@
 | ------------------ | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | Mod Menu           | Adds a MODS button like forge to the pause menu, which lists the installed fabric mods, and lets you configure them. | [Github](https://github.com/TerraformersMC/ModMenu/releases)           |
 | Blur               | Blurs the background when in your inventory, a GUI or a menu.                                                        | [Github](https://github.com/Motschen/Blur/releases)                    |
-| OldPotions         | Brings back the pre-1.19.4 pot colors. (if you use optifine try https://modrinth.com/resourcepack/KHv2w1Gq)          | [Modrinth](https://modrinth.com/mod/oldpotions/versions)               |
+| OldPotions         | Brings back the pre-1.19.4 pot colors.                                                                               | [Modrinth](https://modrinth.com/mod/oldpotions/versions)               |
 | Xearo's World Map  | Creates a map of the entire area that you have explored.                                                             | [Modrinth](https://modrinth.com/mod/xaeros-world-map)                  |
 | MouseWheelie       | Move items quicker around your inventory, sort your inventory, and more... (DISABLE TOTEM REFILL IF CPVPING).        | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
 | ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                              | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
