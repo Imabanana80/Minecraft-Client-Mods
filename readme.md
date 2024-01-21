@@ -26,6 +26,7 @@
 | Enchanced Block Entities | Speeds up Block Entity rendering by using baked block models instead of laggy entity models.               | [Modrinth](https://modrinth.com/mod/ebe/versions)                     |
 | Entity Culling           | Uses async path-tracing to hide Tiles/Entities that are not visible. Breaks f3+A trick.                    | [Github](https://github.com/tr7zw/EntityCulling/releases/)            |
 | Exordium                 | Renders the HUD and options menues at a lower frame rate.                                                  | [Github](https://github.com/tr7zw/Exordium/releases)                  |
+| Fast Quit                | Lets you return to the Title Screen early while your world is still saving in the background               | [Modrinth](https://modrinth.com/mod/fastquit/versions)                |
 | FastAnim                 | Optimizes calculations in entity animations.                                                               | [Modrinth](https://modrinth.com/mod/fastanim/versions)                |
 | FastLoad                 | Modifies the 441 Loading Engine to decrease world loading times.                                           | [Github](https://github.com/BumbleSoftware/Fastload/releases)         |
 | FerriteCore              | Helps reduce ram usage and is more noticable on large modpacks.                                            | [Modrinth](https://modrinth.com/mod/ferrite-core/versions)            |
@@ -38,17 +39,18 @@
 | Memory Leak Fix          | Fixes random memory leaks. Still a reletively young mod.                                                   | [Modrinth](https://modrinth.com/mod/memoryleakfix/versions)           |
 | More Culling             | Culls block faces to greatly improve framerates and client performance                                     | [Github](https://github.com/fxmorin/MoreCulling/releases)             |
 | More Culling Extra       | A few small additions to More Culling.                                                                     | [Github](https://github.com/fxmorin/MoreCullingExtra/releases)        |
+| Nvidium                  | Uses nvidia only opengl extensions to greatly boost FPS (requires nvidia GPU to work)                      | [Modrinth](https://modrinth.com/mod/nvidium/versions)                 |
 | Phosphor                 | Dramatically improves minecraft's lighting engine. Replaces Starlight.                                     | [Github](https://github.com/CaffeineMC/phosphor-fabric/releases)      |
 | Sodium                   | Designed to improve frame rates and reduce micro-stutter.                                                  | [Github](https://github.com/CaffeineMC/sodium-fabric/releases)        |
 | SodiumExtra              | Adds additional features that are not, and shouldnt be, in Sodium.                                         | [Github](https://github.com/FlashyReese/sodium-extra-fabric/releases) |
 | Starlight                | Dramatically improves minecraft's lighting engine. Replaces Phosphor and is slightly better.               | [Modrinth](https://modrinth.com/mod/starlight/versions)               |
-| Thread Tweak             | Improve and tweak Minecraft thread scheduling. Fork of Smooth Boot for ≥1.20                               | [Modrinth](https://modrinth.com/mod/threadtweak/versions)             |
 
 ### Visual (in-game)
 
 | Mod                 | Description                                                                                                        | Download                                                                         |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | 3d Skin Layers      | Replaces the usually flat second layer of player skins with a 3d modelled version.                                 | [Github](https://github.com/tr7zw/3d-Skin-Layers/releases)                       |
+| Better Clouds       | Adds clouds with actual volume                                                                                     | [Modrinth](https://modrinth.com/mod/better-clouds/versions)                      |
 | Boosted Brightness  | Allows you to set brightness beyond default levels. aka a fullbright toggle with a hotkey.                         | [Github](https://github.com/adamviola/BoostedBrightness/releases/)               |
 | Chunks fade in      | A simple mod that adds a fade-in animation for chunks.                                                             | [Modrinth](https://modrinth.com/mod/chunks-fade-in/versions)                     |
 | Distant Horizons    | An LOD mod that allows for a massive render distance. Freezes your game when switching dimensions/joining world.   | [Modrinth](https://modrinth.com/mod/distanthorizons/versions)                    |
@@ -62,6 +64,7 @@
 | NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures      | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
 | TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                              | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
 | Visuality           | A simple client-sided cosmetic mod that will add a bunch of new particles, such as splashes and sparkles           | [Github](https://github.com/PinkGoosik/visuality/releases)                       |
+| Wakes               | Adds splashes and wakes while entities are in water                                                                | [Modrinth](https://modrinth.com/mod/wakes/versions)                              |
 
 ### Visual (camera)
 
@@ -123,6 +126,7 @@
 | Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [Website](https://chocolateminecraft.com/betterpvpdownload.php)             |
 | Better Recipe Book      | Adds a few quality of life changes to the recipe book.                                                                | [Modrinth](https://modrinth.com/mod/brb/versions)                           |
 | CalcMod                 | Calculate crafting resources and other useful stuff                                                                   | [Modrinth](https://modrinth.com/mod/calcmod/versions)                       |
+| Command Macros          | Create keybinds for commands                                                                                          | [Modrinth](https://modrinth.com/mod/command-macros/versions)                |
 | EasierVillagerTrading   | Trade with villagers faster and more easily.                                                                          | [Modrinth](https://modrinth.com/mod/easiervillagertrading/versions)         |
 | Emoji Type              | Allows you to easily type emoji and emoticons in game - replaces :skull: with ☠                                       | [Modrinth](https://modrinth.com/mod/emoji-type/versions)                    |
 | Essential               | Adds social features, cosmetics and QoL features. Also allows you to host singleplayer worlds for people you invite   | [Website](https://essential.gg/download)                                    |
