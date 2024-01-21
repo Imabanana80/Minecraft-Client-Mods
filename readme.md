@@ -97,6 +97,7 @@
 | MouseWheelie       | Move items quicker around your inventory, sort your inventory, and more... (DISABLE TOTEM REFILL IF CPVPING).        | [Github](https://github.com/Siphalor/mouse-wheelie/releases)           |
 | OldPotions         | Brings back the pre-1.19.4 pot colors.                                                                               | [Modrinth](https://modrinth.com/mod/oldpotions/versions)               |
 | Panorama Screens   | Adds the title screen panorama in more places                                                                        | [Modrinth](https://modrinth.com/mod/panorama-screens/versions)         |
+| RP Renames         | Adds a recipe book like menu for CIT items in the anvil                                                              | [Modrinth](https://modrinth.com/mod/rp-renames/versions)               |
 | ShulkerBoxTooltip  | View the contents of shulker boxes from your inventory.                                                              | [Github](https://github.com/MisterPeModder/ShulkerBoxTooltip/releases) |
 | Smooth Swapping    | Adds a simple slide animation when moving items around in your inventory.                                            | [Modrinth](https://modrinth.com/mod/smooth-swapping/versions)          |
 | TooltipFix         | Stops tooltips that are too large to fit on the screen from running off the screen.                                  | [Modrinth](https://modrinth.com/mod/tooltipfix/versions)               |
@@ -123,6 +124,7 @@
 
 | Mod                     | Description                                                                                                           | Download                                                                    |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Better Command Block UI | Makes viewing and writing command block commands more convenient.                                                     | [Modrinth](https://modrinth.com/mod/bettercommandblockui/versions)          |
 | Better PVP              | Includes xearo's minimap and adds many pvp inproving client side changes, like potion display or health display.      | [Website](https://chocolateminecraft.com/betterpvpdownload.php)             |
 | Better Recipe Book      | Adds a few quality of life changes to the recipe book.                                                                | [Modrinth](https://modrinth.com/mod/brb/versions)                           |
 | CalcMod                 | Calculate crafting resources and other useful stuff                                                                   | [Modrinth](https://modrinth.com/mod/calcmod/versions)                       |
@@ -134,6 +136,7 @@
 | Litematica              | A modern schematic mod.                                                                                               | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/litematica/files) |
 | Minihud                 | Adds a whole bunch of useful overlays to the game.                                                                    | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/minihud/files)    |
 | Multiconnect            | Allows the client to connect to servers that are on an older version.                                                 | [Github](https://github.com/Earthcomputer/multiconnect/releases)            |
+| NBT Autocomplete        | Autocompletes NBT tags when writing commands                                                                          | [Modrinth](https://modrinth.com/mod/nbt-autocomplete/versions)              |
 | No darkness effect      | Disables the darkness effect from wardens and the deep dark                                                           | [Modrinth](https://modrinth.com/mod/no-darkness-effect/versions)            |
 | NoChatReports           | Strips cryptographic signatures that since 1.19 are attached to every message sent in the chat.                       | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions)               |
 | Quick Elytra            | Switch your chestplate and elytra with a keybind.                                                                     | [Modrinth](https://modrinth.com/mod/quick-elytra/versions)                  |
