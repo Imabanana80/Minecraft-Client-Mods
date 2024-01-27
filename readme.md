@@ -60,6 +60,7 @@
 | Iris                | A modern shaders mod intended to be compatible with existing OptiFine shader packs.                                | [Github](https://github.com/IrisShaders/Iris/releases/)                          |
 | Kappa               | Adds support for Optifine capes the 'proper' way. Works in snapshots and rarely breaks. Other capes not supported. | [Modrinth](https://modrinth.com/mod/kappa/versions)                              |
 | LambDynamicLights   | A dynamic lights mod for Fabric, like optifine's dynamic lights feature.                                           | [Github](https://github.com/LambdAurora/LambDynamicLights/releases/)             |
+| Model Gap Fix       | Fixes gaps in Block Models and Item Models                                                                         | [Modrinth](https://modrinth.com/mod/modelfix/versions)                           |
 | No Fog              | Removes all types of fog                                                                                           | [Modrinth](https://modrinth.com/mod/no_fog/versions)                             |
 | NotEnoughAnimations | Adds 3rd person animations to way more things, like eating or using a map. Breaks CIT inventory item textures      | [Modrinth](https://modrinth.com/mod/not-enough-animations/versions)              |
 | TechnoModel         | Makes pigs that are named "Technoblade" have a crown.                                                              | [Github](https://github.com/thecolonel63/technomodel/releases/)                  |
