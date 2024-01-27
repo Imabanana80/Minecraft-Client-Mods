@@ -37,7 +37,7 @@
 | LazyDFU                  | Makes Minecraft DataFixerUpper initialization lazy. DFU is used when changing minecraft world versions.    | [Github](https://github.com/astei/lazydfu/releases)                   |
 | Lithium                  | Speeds up the game whithout sacrificing vanilla functionality.                                             | [Github](https://github.com/CaffeineMC/lithium-fabric/releases)       |
 | Memory Leak Fix          | Fixes random memory leaks. Still a reletively young mod.                                                   | [Modrinth](https://modrinth.com/mod/memoryleakfix/versions)           |
-| More Culling             | Culls block faces to greatly improve framerates and client performance                                     | [Github](https://github.com/fxmorin/MoreCulling/releases)             |
+| More Culling             | Culls block faces to greatly improve framerates and client performance                                     | [Modrinth](https://modrinth.com/mod/moreculling/versions)             |
 | More Culling Extra       | A few small additions to More Culling.                                                                     | [Github](https://github.com/fxmorin/MoreCullingExtra/releases)        |
 | Nvidium                  | Uses nvidia only opengl extensions to greatly boost FPS (requires nvidia GPU to work)                      | [Modrinth](https://modrinth.com/mod/nvidium/versions)                 |
 | Phosphor                 | Dramatically improves minecraft's lighting engine. Replaces Starlight.                                     | [Github](https://github.com/CaffeineMC/phosphor-fabric/releases)      |
